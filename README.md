@@ -6,4 +6,4 @@ __Link da página:__ [https://flx-lander7.github.io/codigoConJuan3__buscadorDeAu
 
 <br>
 
-![Captura de tela]()
+![Captura de tela](https://raw.githubusercontent.com/flx-lander7/codigoConJuan3__buscadorDeAutos/main/capturaDeTela.codigoConJuan3__buscadorDeAutos.png)
